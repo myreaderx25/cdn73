@@ -1,0 +1,742 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+
+<!-- Social Warfare v4.1.0 https://warfareplugins.com - BEGINNING OF OUTPUT -->
+<style>
+	@font-face {
+		font-family: "sw-icon-font";
+		src:url("https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.1.0");
+		src:url("https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.eot?ver=4.1.0#iefix") format("embedded-opentype"),
+		url("https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.woff?ver=4.1.0") format("woff"),
+		url("https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.ttf?ver=4.1.0") format("truetype"),
+		url("https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/fonts/sw-icon-font.svg?ver=4.1.0#1445203416") format("svg");
+		font-weight: normal;
+		font-style: normal;
+		font-display:block;
+	}
+</style>
+<!-- Social Warfare v4.1.0 https://warfareplugins.com - END OF OUTPUT -->
+
+
+<!-- Platinum Seo Pack, version 2.2.0 by Techblissonline-->
+
+<title>No Solo Viajeros</title>
+<meta name="description" content="El blog de viajes del turista alternativo" />
+<meta name="robots" content="index,follow" />
+<link rel="canonical" href="https://www.nosoloviajeros.com/" />
+<link rel="next" href="https://www.nosoloviajeros.com/page/2/" />
+
+<script type="application/ld+json"> { "@context": "https://schema.org", "@type": "WebSite", "url": "https://www.nosoloviajeros.com/", "potentialAction": { "@type": "SearchAction", "target": "https://www.nosoloviajeros.com/?s={techblissonline_platinum_wordpress_seo}", "query-input": "required name=techblissonline_platinum_wordpress_seo" } } </script>
+<!--Techblissonline Platinum SEO and Social Pack Tracer ends here -->
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="No Solo Viajeros &raquo; Feed" href="https://www.nosoloviajeros.com/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.nosoloviajeros.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5.1"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='social-warfare-block-css-css'  href='https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/js/post-editor/dist/blocks.style.build.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='astra-theme-css-css'  href='https://www.nosoloviajeros.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=2.5.5' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:93.75%;}a,.page-title{color:#0274be;}a:hover,a:focus{color:#3a3a3a;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:inherit;font-size:15px;font-size:1rem;}blockquote{color:#000000;}.site-title{font-size:35px;font-size:2.3333333333333rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.6666666666667rem;}.site-header .site-description{font-size:15px;font-size:1rem;}.entry-title{font-size:40px;font-size:2.6666666666667rem;}.comment-reply-title{font-size:24px;font-size:1.6rem;}.ast-comment-list #cancel-comment-reply-link{font-size:15px;font-size:1rem;}h1,.entry-content h1{font-size:40px;font-size:2.6666666666667rem;}h2,.entry-content h2{font-size:30px;font-size:2rem;}h3,.entry-content h3{font-size:25px;font-size:1.6666666666667rem;}h4,.entry-content h4{font-size:20px;font-size:1.3333333333333rem;}h5,.entry-content h5{font-size:18px;font-size:1.2rem;}h6,.entry-content h6{font-size:15px;font-size:1rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:2rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:15px;font-size:1rem;}::selection{background-color:#0274be;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#3a3a3a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#0274be;background-color:#0274be;}.main-header-menu .menu-link,.ast-header-custom-item a{color:#3a3a3a;}.main-header-menu .menu-item:hover > .menu-link,.main-header-menu .menu-item:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu .menu-item.focus > .menu-link,.main-header-menu .menu-item.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > .menu-link,.main-header-menu .current-menu-ancestor > .menu-link,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#0274be;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#0274be;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#0274be;background-color:#0274be;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#0274be;border-color:#0274be;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:12px;font-size:0.8rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#0274be;}.entry-meta,.entry-meta *{line-height:1.45;color:#0274be;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#3a3a3a;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:13.333333333333rem;}.widget-title{font-size:21px;font-size:1.4rem;color:#3a3a3a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#0274be;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#0274be;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#0274be;border-color:#0274be;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#0274be;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#3a3a3a;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#0274be;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #0274be;color:#0274be;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#0274be;}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;max-width:unset;width:unset;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-image.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;max-width:unset;width:unset;}.wp-block-group .has-background{padding:20px;}}@media (min-width:1200px){.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignwide,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignwide{margin-left:-20px;margin-right:-20px;padding-left:20px;padding-right:20px;}.ast-separate-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-group.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-group.alignfull,.ast-separate-container.ast-right-sidebar .entry-content .wp-block-cover.alignfull,.ast-separate-container.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-no-sidebar.ast-separate-container .entry-content .wp-block-cover.alignfull{margin-left:-6.67em;margin-right:-6.67em;padding-left:6.67em;padding-right:6.67em;}.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignwide,.ast-plain-container.ast-right-sidebar .entry-content .wp-block-group.alignfull,.ast-plain-container.ast-left-sidebar .entry-content .wp-block-group.alignfull{padding-left:20px;padding-right:20px;}.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-group__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .wp-block-cover__inner-container,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .wp-block-cover__inner-container{max-width:1240px;margin-left:auto;margin-right:auto;padding-left:20px;padding-right:20px;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-group.alignfull{margin-left:0;margin-right:0;}.wp-block-cover-image.alignwide .wp-block-cover__inner-container,.wp-block-cover.alignwide .wp-block-cover__inner-container,.wp-block-cover-image.alignfull .wp-block-cover__inner-container,.wp-block-cover.alignfull .wp-block-cover__inner-container{width:100%;}.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-left-sidebar .entry-content .wp-block-cover.alignfull,.ast-page-builder-template.ast-right-sidebar .entry-content .wp-block-cover.alignful{padding-right:0;padding-left:0;}}@media (max-width:921px){#secondary.secondary{padding-top:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}.ast-separate-container.ast-right-sidebar #secondary{padding-left:1em;padding-right:1em;}.ast-separate-container.ast-two-container #secondary{padding-left:0;padding-right:0;}.ast-page-builder-template .entry-header #secondary{margin-top:1.5em;}.ast-page-builder-template #secondary{margin-top:1.5em;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}.ast-pagination{padding-top:1.5em;text-align:center;}.ast-pagination .next.page-numbers{display:inherit;float:none;}}@media (max-width:921px){.ast-page-builder-template.ast-left-sidebar #secondary{padding-right:20px;}.ast-page-builder-template.ast-right-sidebar #secondary{padding-left:20px;}.ast-right-sidebar #primary{padding-right:0;}.ast-right-sidebar #secondary{padding-left:0;}.ast-left-sidebar #primary{padding-left:0;}.ast-left-sidebar #secondary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container.ast-right-sidebar #secondary,.ast-separate-container.ast-left-sidebar #secondary{border:0;margin-left:auto;margin-right:auto;}.ast-separate-container.ast-two-container #secondary .widget:last-child{margin-bottom:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:922px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-right-sidebar #secondary{border-left:1px solid #eee;margin-left:-1px;}.ast-left-sidebar #primary{border-left:1px solid #eee;}.ast-left-sidebar #secondary{border-right:1px solid #eee;margin-right:-1px;}.ast-separate-container.ast-two-container.ast-right-sidebar #secondary{padding-left:30px;padding-right:0;}.ast-separate-container.ast-two-container.ast-left-sidebar #secondary{padding-right:30px;padding-left:0;}}.wp-block-button .wp-block-button__link,{color:#ffffff;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:#0274be;background-color:#0274be;color:#ffffff;font-family:inherit;font-weight:inherit;line-height:1;border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#3a3a3a;border-color:#3a3a3a;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:#0274be;background-color:#0274be;border-radius:2px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;font-family:inherit;font-weight:inherit;line-height:1;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#3a3a3a;border-color:#3a3a3a;}@media (min-width:921px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container #secondary{padding-top:0;}.ast-separate-container.ast-two-container #secondary .widget{margin-bottom:1.5em;padding-left:1em;padding-right:1em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:921px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:921px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:921px){html{font-size:85.5%;}}@media (max-width:544px){html{font-size:85.5%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(https://www.nosoloviajeros.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(https://www.nosoloviajeros.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(https://www.nosoloviajeros.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#0274be;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.6666666666667rem;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}#masthead .ast-container,.ast-header-breadcrumb .ast-container{max-width:100%;padding-left:35px;padding-right:35px;}@media (max-width:921px){#masthead .ast-container,.ast-header-breadcrumb .ast-container{padding-left:20px;padding-right:20px;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}.trail-items li::after{content:"\00bb";}.ast-breadcrumbs-wrapper,.ast-breadcrumbs-wrapper a{font-family:inherit;font-weight:inherit;}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar.ast-header-breadcrumb,.ast-main-header-nav-open .main-header-bar.ast-header-breadcrumb{padding-top:1em;padding-bottom:1em;}.ast-header-break-point .main-header-bar.ast-header-breadcrumb{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}.ast-breadcrumbs-wrapper{line-height:1.4;}.ast-breadcrumbs-wrapper .rank-math-breadcrumb p{margin-bottom:0px;}.ast-breadcrumbs-wrapper{display:block;width:100%;}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}@media (min-width:922px){#primary{width:70%;}#secondary{width:30%;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item, .ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}
+</style>
+<link rel='stylesheet' id='astra-menu-animation-css'  href='https://www.nosoloviajeros.com/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=2.5.5' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.nosoloviajeros.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' media='all' />
+<link rel='stylesheet' id='social_warfare-css'  href='https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/css/style.min.css?ver=4.1.0' media='all' />
+<link rel='stylesheet' id='arpw-style-css'  href='https://www.nosoloviajeros.com/wp-content/plugins/advanced-random-posts-widget/assets/css/arpw-frontend.css?ver=5.5.1' media='all' />
+<!--[if IE]>
+<script src='https://www.nosoloviajeros.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.5.5' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script src='https://www.nosoloviajeros.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel="https://api.w.org/" href="https://www.nosoloviajeros.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.nosoloviajeros.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.nosoloviajeros.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5.1" />
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link rel="icon" href="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/cropped-fav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/cropped-fav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/cropped-fav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/cropped-fav-270x270.png" />
+		<style id="wp-custom-css">
+			.ast-container #primary
+{padding-top:0px;
+padding-bottom:0px;}		</style>
+		</head>
+
+<body itemtype='https://schema.org/Blog' itemscope='itemscope' class="home blog wp-custom-logo ast-desktop ast-separate-container ast-right-sidebar astra-2.5.5 ast-header-custom-item-inside ast-full-width-primary-header ast-inherit-site-logo-transparent">
+
+<div 
+	class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+	
+		<header
+			class="site-header ast-primary-submenu-animation-fade header-main-layout-2 ast-primary-menu-enabled ast-logo-title-inline ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+
+			
+			
+<div class="main-header-bar-wrap">
+	<div class="main-header-bar">
+				<div class="ast-container">
+
+			<div class="ast-flex main-header-container">
+				
+		<div class="site-branding">
+			<div
+			class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"			>
+				<span class="site-logo-img"><a href="https://www.nosoloviajeros.com/" class="custom-logo-link" rel="home" aria-current="page"><img width="330" height="70" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/cropped-logo.png" class="custom-logo" alt="No Solo Viajeros" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/cropped-logo.png 330w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/cropped-logo-300x64.png 300w" sizes="(max-width: 330px) 100vw, 330px" /></a></span>			</div>
+		</div>
+
+		<!-- .site-branding -->
+				<div class="ast-mobile-menu-buttons">
+
+			
+					<div class="ast-button-wrap">
+			<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-minimal "  aria-controls='primary-menu' aria-expanded='false'>
+				<span class="screen-reader-text">Main Menu</span>
+				<span class="menu-toggle-icon"></span>
+							</button>
+		</div>
+			
+			
+		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border astra-menu-animation-fade "><li id="menu-item-63" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-63"><a href="https://www.nosoloviajeros.com/" aria-current="page" class="menu-link">Inicio</a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://www.nosoloviajeros.com/sobre-no-solo-viajeros/" class="menu-link">Sobre No Solo Viajeros</a></li>
+<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://www.nosoloviajeros.com/contacto/" class="menu-link">Contacto</a></li>
+</ul></div></nav></div></div>			</div><!-- Main Header Container -->
+		</div><!-- ast-row -->
+			</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+
+			
+		</header><!-- #masthead -->
+
+		
+	
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+
+				
+					<div class="ast-row">
+					
+
+<article 
+	class="post-42 post type-post status-publish format-standard has-post-thumbnail hentry category-espana ast-col-sm-12 ast-article-post" id="post-42" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/micronesia-espanola-tiene-espana-islas-en-el-pacifico-y-no-lo-sabe/" ><img width="1024" height="590" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h-1024x590.jpg" class="attachment-large size-large wp-post-image" alt="Micronesia Española, ¿ tiene España islas en el Pacífico y no lo sabe ?" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h-1024x590.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h-300x173.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h-768x442.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/micronesia-espanola-tiene-espana-islas-en-el-pacifico-y-no-lo-sabe/" rel="bookmark">Micronesia Española, tiene España islas en el Pacífico y no lo sabe ?</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/espana/" rel="category tag">Espana</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>La Historia es curiosa, y a veces haciendo una revisión de la misma nos podemos encontrar con sorpresas. Este es uno de esos casos, ya que atendiendo a los acuerdos internacionales firmados por España a finales de s. XIX, teóricamente, la existencia de la <a href="http://www.libertaddigital.com/espana/2015-09-08/es-realmente-espanola-la-micronesia-espanola-1276556556/" target="_blank" rel="noopener noreferrer">Micronesia Española</a> es real.<span id="more-382"></span></p>
+<p>España no lo tuvo fácil en el s. XIX, mientras su sistema político se tambaleaba por sucesivos cambios de gobierno, y los golpes de Estado se daban a raudales, la soberanía nacional hacia aguas por todos lados. A inicios del siglo perdimos la mayor parte de los territorios de América, y a finales, a raíz de la Guerra de Cuba, nos despedimos de la isla caribeña. También a consecuencia de esta guerra sin sentido, mediante el Tratado de París de 1898, España tuvo que abandonar forzadamente en favor de Estados Unidos Filipinas, Guam y Puerto Rico.</p>
+<p>Poco le quedaba ya a España en ultramar, apenas los archipiélagos de Palaos, Marianas y Carolinas. El orgullo imperial español había desaparecido, la riqueza del país estaba quebrada, la sociedad cada vez estaba más convulsa, y encima no había ni posibilidad efectiva ni interés en mantener estas islas que aún pertenecían a España. Eran unas islas casi despobladas, sin un centro administrativo cercano desde donde poder controlarlas y explotarlas comercialmente, y además, tras la batalla de Cavite en 1898, en la cual España perdió su flota del pacífico, no había posibilidad de defender la soberanía de estos territorios. En definitiva, eran una carga para el estado.</p>
+<p>La solución fue deshacerse de ellas vendiéndolas, y el comprador no fue otro que la que para entonces era la segunda potencia mundial, Alemania. Este país estaba interesado en mantener una flota militar en el pacífico, así pues esta se les antojaba como una buena oportunidad. Es en este momento cuando oficialmente España dejo de tener territorios de ultramar&#8230;.¿ o quizá no ?.</p>
+<p>Una vez entrados en el s. XX España se enfrentaba a otras amenazas, como la Guerra del Rif, la Segunda Guerra Mundial, o la misma Guerra Civil Española, por lo que el desastroso siglo XIX había quedado atrás&#8230;hasta que apareció <a href="https://www.elespanol.com/ciencia/investigacion/20170907/244976312_0.html" target="_blank" rel="noopener noreferrer">Emilio Pastor y Santos</a>.</p>
+<p>Emilio Pastor era un abogado del Estado, que en 1948, escarbando en los archivos del Ministerio de Exteriores, fue quién descubrió una insólita situación geopolítica que afectaba directamente a la soberanía de España, y de la que nadie se había percatado hasta el momento: la posibilidad de que España, a día de hoy, fuera soberana de varias islas en el pacífico.</p>
+<p>En los citados archivos, y más concretamente en el documento &#8220;Tratado dos descubrimientos&#8221;, del portugués Antonio Galvao ( s. XVII ), se encontró el dilema. En ese libro se hacia una recopilación de las islas que hasta el momento se habían descubierto. Y se daba la circunstancia de que había cuatro islas descubiertas por Hernando de Grijalba en 1537 que quedaron bajo soberanía española y que no estaban ni en los archipiélagos de las Carolinas, ni en el de las Marianas. Esto quiere decir que no fueron transferidas a Alemania en el tratado de 1899. Y por tanto, teóricamente, esas islas, a día de hoy pertenecerían al Estado Español.</p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/kapingamarangi-2.jpg" alt="Isla Pescadores o kapingamarangi island" width="468" height="422" /></p>
+<p>Estas islas son: Guedes, Coroa, Pescadores y Ocea. Cabe destacar el archipiélago de <a class="external" title="Isla Pescadores" href="http://en.wikipedia.org/wiki/Kapingamarangi" target="_blank" rel="noopener noreferrer">Pescadores</a> ( en el idioma local Kapingamarangi ), que tiene 1,1 km cuadrados, una población de unas 510 personas y 33 islotes. Por lo demás no es que sean grandes territorios, pero algo es algo.</p>
+<p>La expectacion que Emilio Pastor generó entonces entorno a esta tesis fue tal que se celebró un consejo de ministros con Franco a la cabeza únicamente para tratar el tema. Entonces el Gobierno decidió no tomar baza en el asunto hasta que no se demostrase fehacientemente la propiedad de esas islas. Y es que entonces España tenía cosas más importantes para solucionar que tener unas playitas de más&#8230;como por ejemplo el hambre y su complicada situación con la ONU.</p>
+<p>¿ Serán estas islas las próximas Torrevieja, Benidorm y Salou ? Espero que no&#8230;.</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-39 post type-post status-publish format-standard has-post-thumbnail hentry category-colombia ast-col-sm-12 ast-article-post" id="post-39" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/los-del-fines-rosados-del-amazonas/" ><img width="1024" height="576" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="Los delfines rosados del Amazonas" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-1024x576.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-300x169.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-768x432.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-1536x864.jpg 1536w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/los-del-fines-rosados-del-amazonas/" rel="bookmark">Los delfines rosados del Amazonas</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/colombia/" rel="category tag">Colombia</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>En el <a href="https://colombia.travel/feel-the-rhythm/es/destino/amazonas" target="_blank" rel="noopener noreferrer"><strong>Amazonas colombiano</strong></a>, próximo a la frontera con las repúblicas de Perú y Brasil, nos encontramos uno de los espectáculos más bellos que la naturaleza puede ofrecernos, los <strong>delfines rosados</strong>.</p>
+<p>Estos mamíferos, de piel rosada y joroba pronunciada, son una referencia del <strong>ecoturismo en Colombia</strong>; y no solamente por su belleza y singularidad, sino también por los mitos que se les atribuyen.</p>
+<p><img loading="lazy" class="aligncenter size-full" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/delfin-rosado.jpg" width="380" height="264" /></p>
+<p>La leyenda dice que un guerrero indígena, debido a su belleza, fue envidiado por los dioses; por tal razón lo convirtieron en un delfín. Se cuenta que durante las fiestas sale a seducir a la mujer mas bella del pueblo vestido de blanco y con un sombrero de paja<span id="more-82"></span>, sin que esta pueda resistirse a sus encantos la invita a ir a la orilla del rio con el, a la mañana siguiente, sin que pueda recordar nada, descubrirá que está embarazada.</p>
+<p>Tal es la tradición que rodea a este animal que las mujeres evitan bañarse en el rio por la noche o mientras tienen la menstruación, ya  que puede que las visite el delfín rosado y las embarace.</p>
+<p>Como dato curioso cabe destacar como en algunos casos, en el registro de nacimiento de personas con padre desconocido, se puede leer &#8220;<a href="https://secretoscortesanos.com/2019/11/11/el-destino-de-monsigneur-le-grand-dauphin-francia/" target="_blank" rel="noopener noreferrer"><strong>hijo del delfín</strong></a>&#8220;.</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-27 post type-post status-publish format-standard has-post-thumbnail hentry category-colombia ast-col-sm-12 ast-article-post" id="post-27" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/bogota-2600-metros-mas-cerca-de-las-estrellas/" ><img width="1024" height="640" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-1024x640.jpg" class="attachment-large size-large wp-post-image" alt="Bogotá, 2600 metros más cerca de las estrellas" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-1024x640.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-300x188.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-768x480.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-1536x960.jpg 1536w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-2048x1280.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/bogota-2600-metros-mas-cerca-de-las-estrellas/" rel="bookmark">Bogotá, 2600 metros más cerca de las estrellas</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/colombia/" rel="category tag">Colombia</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>Sin contar con un clima tropical o largas y transparentes playas Bogotá se ha convertido en uno de los principales destinos turísticos de latinoamérica gracias a su carácter multicultural y su apuesta por adaptarse a los nuevos tiempos. Museos, parques, monumentos, centros comerciales, deportes extremos y demás ofertas le esperan al turista en una ciudad abierta al s.XXI, una ciudad que ha crecido hasta convertirse, con sus casi ocho millones de habitantes, en la novena ciudad mas grande de América.</p>
+<p><img loading="lazy" class="alignleft " src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/catedral-bogota.jpg" width="357" height="259" />Todo viajero que entra en Colombia muy seguramente lo haga por el Aeropuerto Internacional de El Dorado, un moderno complejo aeroportuario que destaca por sus esfuerzos en convertirse en un importante nudo de comunicaciones internacional. Una vez llegados al aeropuerto y pasado el control fronterizo nos encontraremos, como en toda ciudad latinoamericana, con una multitud de taxistas ofreciendo sus servicios; se debe declinar amablemente y acudir a la zona designada en el aeropuerto para tal efecto, la cual se sitúa en la salida que se encuentra junto a los mostradores de facturación de Avianca.<span id="more-36"></span></p>
+<p>La oferta de <strong>alojamiento</strong> que nos ofrece la ciudad es amplia, podemos encontrar desde hoteles de lujo como el Hilton, La Fontana, el Tequendama o el Windsor House hasta hostales y albergues pensados para mochileros en la zona de La Candelaria. Por lo general en todos los establecimientos aceptan tarjetas de crédito/debito, en los hoteles de lujo puede incluso pagarse en moneda extranjera, pero no lo recomendamos por la tasa de cambio que ofrecen.</p>
+<p>La moneda nacional de Colombia es el <a href="https://www.expansion.com/ahorro/conversor-divisas/dolar-pesocolombiano" target="_blank" rel="noopener noreferrer"><strong>Peso Colombiano</strong></a>, solamente es admitida esta divisa a la hora de pagar en comercios, transportes o centros turísticos (Exceptuando algunos hoteles donde se puede pagar la cuenta en moneda extranjera). El cambio de moneda puede efectuarse en el aeropuerto o en las casas de cambio, conviene comprobar las tasas cambiarias de unos y otros para obtener el mejor cambio posible.</p>
+<p>A la hora de <strong>moverse por Bogotá</strong> hay que tener especial cuidado con el transporte, no porque sea<img loading="lazy" class="alignright" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/transmilenio.jpg" alt="" width="303" height="264" /> peligroso, sino más bien porque es un enredo. Básicamente hay tres tipos de transporte, el taxi, el transmilenio y los autobuses normales. Los taxis, a comparación de otros países no son caros, pero ya que se esta en un país ajeno recomendamos los sistemas de transporte públicos, son mas aventureros. Como sistema de transporte masivo, al carecer Bogotá de un Metro se creo un servicio denominado &#8220;Transmilenio&#8221;, que básicamente es un sistema de autobuses que circulan por carriles propios sobre las carreteras, es rápido y efectivo; el sistema de líneas es similar al de un metro. Para aquellos a los que les guste la aventura están los servicios de autobuses comunes, denominados busetas, colectivos, ejecutivos o buses dependiendo de su tamaño.</p>
+<p>En principio se supone que sus recorridos corresponden a líneas fijas. El problema para el turista viene cuando se da cuenta de que todos ellos indican en un cartelito los barrios por los que pasan, no hay carteles que indiquen por donde pasa una línea o la otra. Son autobuses que en muchas ocasiones son furgonetas e incluso ambulancias modificadas. Por cierto, dato importante, recogen y dejan a la gente donde se les pida, como si es en mitad de una autopista, una aventura que no hay que perderse.</p>
+<p>La <a href="https://www.eltiempo.com/bogota/la-oferta-cultural-de-bogota-va-desde-el-grafiti-hasta-la-opera-283442" target="_blank" rel="noopener noreferrer"><strong>oferta cultural que nos ofrece Bogotá</strong></a> es amplia, podemos escoger entre una gran variedad de museos, ir a uno de sus múltiples teatros, aprender uno de sus múltiples bailes o visitar monumentos y construcciones de gran importancia.</p>
+<p>Uno de los principales museos de latinoamérica se encuentra precisamente en Bogotá, se trata del Museo del Oro, con 35 mil piezas de oro, además de 30 mil objetos cerámicos, líticos y textiles, representa la mayor colección de orfebrería prehispánica del mundo.</p>
+<p>Otra gran colección de arte prehispánico la encontramos en el Museo Arqueológico, que con sus más de 30 mil piezas se ha convertido en un referente indiscutible en el panorama museológico americano.</p>
+<p>Para los amantes de la naturaleza nos encontramos con el Instituto de Ciencias Naturales, institución que alberga una magnifica colección de mas de un millón de referencias entre piezas zoológicas, botánicas, paleontológicas, geológicas, arqueológicas y etnográficas.</p>
+<p><img loading="lazy" class="alignleft" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/museo-maloka.jpg" alt="" width="309" height="220" /><strong>Importantes museos</strong> que también nos ofrece el panorama cultural de esta hermosa ciudad son el Museo de Arte Colonial, la Casa de la Moneda, el Museo de Arte Moderno de Bogotá, el Museo Botero, el Museo Nacional de Colombia, el Museo de la independencia y si vamos acompañados por niños el Museo Maloka, un centro de diversión y aprendizaje para niños de todas las edades.</p>
+<p>Por la noche en esta ciudad se respira un aire de encanto que bien podemos aprovecharlo pasándonos a ver una actuación en uno de sus 45 teatros, entre los cuales podemos destacar el Teatro Colón, el Teatro La Candelaria, el Teatro Camarín del Carmen (con más de 400 años de existencia), el Teatro Colsubsidio y como no, el Teatro Jorge Eliécer Gaitán, el de mayor aforo de toda Sudamérica.</p>
+<p>Recomendamos entre <strong>otros eventos</strong> el acudir a una actuación de Orquesta Filarmónica de Bogotá, la cual se presenta en el Auditorio León de Greiff, situado en la Universidad Nacional de Colombia. Si el visitante esta de suerte y le coinciden las fechas puede estar presente en el Festival Iberoamericano de Teatro, evento que convoca a los mejores grupos teatrales del mundo y es catalogado como el mejor festival de teatro del país y de América Latina.</p>
+<p>Con respecto al mundo del <strong>cine</strong>, nos encontramos con el Festival de Cine de Bogotá, evento en el cual pueden apreciarse las ultimas novedades del cine comercial, así como una importante representación del Cine Arte (Cine independiente) mundial, con importante presencia de artistas europeos.</p>
+<p>El <strong>panorama arquitectónico que nos ofrece Bogotá</strong> es inmenso, desde construcciones coloniales del s.XVI hasta modernos rascacielos pasando por imponentes palacios.</p>
+<p>De la época colonial son por ejemplo la Iglesia de San Francisco y la Casa de la Moneda, el segundo de los cuales corresponde al ya citado museo numismático del Banco de la República. El periodo colonial mantuvo una arquitectura basada en la retícula del damero implantada por las Leyes de Indias y que se ha mantenido hasta finales del s.XIX, ya con la república fundada.</p>
+<p>Si el visitante observa atentamente podrá comprobar como en su gran mayoría las casas de la época mantienen un máximo de dos pisos, con patio central, techo a dos aguas, teja de barro y balcones volados. Esta arquitectura es muy visible en la zona de La Candelaria, en el Centro.</p>
+<p>Atendiendo a corrientes extranjeras, como las provenientes de Inglaterra o Francia, y en base a  un <img loading="lazy" class="alignleft" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/catedral-bogota2.jpg" alt="" width="269" height="225" />sistema neoclasicista por norma general, se creo el denominado periodo de arquitectura republicana, comprendiendo entre otros edificios el Capitolio Nacional (Sede del Congreso), el Palacio Liévano (Sede de la Alcaldía Mayor de Bogotá), el Teatro Colon, o la Iglesia de Lourdes, en Chapinero.</p>
+<p>Es indispensable para el visitante conocer la plaza Bolívar, ubicación de algunos de los edificios neoclásicos y eclecticistas mas importantes de Colombia. En ella están situados el Capitolio Nacional y el Palacio de Liévano, así como la Catedral Primada de Colombia, comúnmente llamada Catedral Primada de Bogotá; es el mayor templo católico de Colombia y uno de los mas grandes de América Latina.</p>
+<p>En cuanto a la <strong>arquitectura moderna</strong> cabe destacar la Torre Colpatria, construcción que con 199 metros de altura preside los cielos de Colombia y se posiciona como el tercer edificio de mayor envergadura en Sudamérica.</p>
+<p>Como <strong>destinos de peregrinación y miradores</strong> impresionantes de la ciudad, a mas de 3000 metros de altura nos encontramos con los cerros de Guadalupe y Monserrate, lugares a los cuales cada año cientos de miles de peregrinos acuden y donde no menos cantidad de turistas también hacen su aparición. Para poder llegar a estos apartados lugares, la forma mas recomendable es mediante el transporte publico existente, bien sea en funicular o teleférico en el caso de Monserrate o en el autobús que desde la Caracas con Calle 6 se dirige al Cerro de Guadalupe.</p>
+<p>Si Bogotá es conocida en Sudamérica, entre otras muchas cosas es por los <strong>grandes eventos</strong> que esta ciudad convoca. Eventos como el Festival Rock al Parque, el Festival de Verano, el Carnaval de Bogotá o la Feria Internacional del Libro.</p>
+<p>&#8220;Rock al parque&#8221; es un festival internacional de rock que aglutina grupos de diferentes partes del mundo, siendo considerado el festival de Rock en español al aire libre más grande del mundo. Se celebra, por lo general a finales de octubre o principios de Noviembre en el Parque Metropolitano Simón Bolívar.</p>
+<p>En este mismo lugar, en el Parque Simón Bolívar, se celebra cada Agosto el Festival de Verano, donde las actividades deportivas y recreativas priman ante todo. Cabe destacar la afición que los bogotanos tienen en este festival por las cometas, es realmente impresionante el acudir un día cualquiera del festival a las 10 de la mañana y ver miles de cometas de todos los diseños y colores surcando los cielos.</p>
+<p>Diseños y colores es lo que no falta en nuestro siguiente evento, la Feria Internacional del Libro. Evento que desde su fundación en 1988 ha ido progresando hasta convertirse en uno de los mayores puntos de reunión de Iberoamérica en cuanto al tema literario se refiere. Se celebra en el Centro de Exposiciones Corferias, a finales de Abril.</p>
+<p>Bogotá también es una ciudad movida, con ritmo, con alegría, y bien se demuestra esto en su magnifico Carnaval, evento celebrado los días 5 y 6 de Agosto, en los mismos días que se celebra el aniversario de la urbe. Un momento imprescindible para cualquier viajero para lanzarse a bailar frenéticos bailes en una fiesta que se sabe cuando empieza pero no cuando acaba.</p>
+<p><img loading="lazy" class="alignleft" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/carnaval-bogota.jpg" alt="" width="321" height="186" />Frenesí que no solamente se limita a los días del carnaval. Bogotá tiene varias <strong>zonas de &#8220;rumba&#8221;</strong> donde pasar la noche de un viernes o sábado. Invitamos al lector que vaya a viajar a la ciudad a que se de una vuelta por alguno de los lugares de copas de Bogotá, entre los cuales destacamos la Zona Rosa ( Ubicada en el barrio El Chicó, en los alrededores del Centro Comercial Atlantis Plaza ), el parque de la 93, Usaquén ( Aproximadamente en la carrera 7 entre las calle 116 y 120 ) o la Plaza del Chorro de Quevedo ( Calle 13, Carrera 2 ).</p>
+<p>Obviamente, algo que siempre va acompañado con la fiesta es la <strong>comida</strong>. Bogotá, al igual que el resto de Colombia, es muy dada a la gastronomía, sobre todo cuando se trata de usar productos como la papa, la yuca o las carnes. El arroz y el maíz también son base para muchos de los platos que los bogotanos consumen. El ajiaco, deliciosa sopa compuesta entre otras muchas cosas por maíz, pollo y papa; la Fritanga, plato elaborado con una multitud de carnes diferentes; el Puchero Santafereño,  plato a base de diferentes tipos de patatas, yuca, maíz,  platano y gallina. Los bogotanos son muy dados al chocolate, y este lo sirven según la tradición con queso ( se mezcla con el chocolate ) o con un buen tamal.</p>
+<p>A la hora de pasar un día entretenido, Bogotá nos ofrece una amplia <strong>oferta de servicios</strong> a gusto de todos. Hay varias pistas de karts, entre las cuales recomendamos la situada en la autopista norte enfrente al Parque Camelot. Hay Boleras, a destacar la bolera del Salitre. Esta ultima se sitúa junto al Jardín Botánico José Celestino Mutis, el cual será de visita obligatoria para todo visitante amante de la naturaleza. Para los más pequeños, hay dos parques de atracciones, Mundo Aventura y Salitre Mágico.</p>
+<p>Por ultimo, a todo aquel visitante amante de los <strong>mercadillos callejeros</strong> le invitamos a visitar los distintos mercados de pulgas (Mercadillos) existentes en la ciudad. Los tres principales, abiertos únicamente los domingos, son el Mercado de Pulgas de San Alejo, situado en la Carrera. 7 No. 24 &#8211; 70; el Mercado de Pulgas de San Pelayo, situado en la Carrera 7, entre calles 119 y 120ª. En estos lugares el viajero podrá encontrar todo tipo de objetos, desde libros de Oceanografía hasta reliquias de la época colonial, todo un mundo.</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-45 post type-post status-publish format-standard has-post-thumbnail hentry category-francia ast-col-sm-12 ast-article-post" id="post-45" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/por-que-decimos-que-las-ciguenas-traen-a-los-ninos-de-paris/" ><img width="1024" height="575" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i-1024x575.jpg" class="attachment-large size-large wp-post-image" alt="¿ Por qué decimos que las cigüeñas traen a los niños de París ?" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i-1024x575.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i-300x169.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i-768x431.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/por-que-decimos-que-las-ciguenas-traen-a-los-ninos-de-paris/" rel="bookmark">¿ Por qué decimos que las cigüeñas traen a los niños de París ?</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/francia/" rel="category tag">Francia</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>Cuando un niño todavía no tiene edad para comprender el “milagro” de la reproducción humana, quizá lo más sencillo sea recurrir al eterno mito de que los niños los traen las cigüeñas desde París. Pero, ¿ de donde proviene tan recurrida frase ? Entonces, ¿ para que tomar un vuelo barato si podemos viajar en “Cigüeñair” ? ¿ Que tiene que ver la capital gala con todo esto ?<span id="more-1470"></span></p>
+<p>Veamos, ¿ por qué cigüeñas ? En la Edad Media, a este animal, a causa del cariño y cuidado que mostraba con sus crías, se le relacionaba con la maternidad.</p>
+<p>En cuanto a la segunda parte del mito, la que las sitúa en París, tiene su origen en la región francesa de Alsacia, uno de los lugares predilectos por las cigüeñas que emigran anualmente desde África. Año tras año bandadas de estas aves frecuentan los tejados de las casas alsacianas; y claro, con el tiempo han pasado a formar parte de la cultura popular.</p>
+<p><img loading="lazy" class="aligncenter size-full" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/05/stork-paris.jpg" width="320" height="213" /></p>
+<p>En esta parte de Francia hay una leyenda que cuenta que un par de cigüeñas anidaron en lo alto de la chimenea de una casa y, al partir, la pareja que vivía en ella tuvo un bebé, por lo que se extendió la idea de que la criatura había sido traída en el pico de una de las aves.</p>
+<p>Muy bonito, pero, ¿ que tiene que ver París con Alsacia ? Pues nada, pero como París es mundialmente conocida como la ciudad del amor, la tradición acabó situando en esta ciudad el origen del vuelo de la cigüeña.</p>
+<p>Así pues la próxima vez que toméis un <a class="external" title="vuelo a París" href="http://www.edreams.es/vuelos/paris/PAR/" target="_blank" rel="noopener noreferrer">vuelo a París</a>, no perdáis detalle de las ventanillas del avión. Con un poco de suerte os cruzáis con un par de “cigüeñas mensajeras”.</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-48 post type-post status-publish format-standard has-post-thumbnail hentry category-china ast-col-sm-12 ast-article-post" id="post-48" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/china-abre-a-los-turistas-una-central-nuclear-militar-subterranea/" ><img width="1024" height="576" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/j-1024x576.jpg" class="attachment-large size-large wp-post-image" alt="China abre a los turistas una central nuclear militar subterránea" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/j-1024x576.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/j-300x169.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/j-768x432.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/j-1536x864.jpg 1536w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/j.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/china-abre-a-los-turistas-una-central-nuclear-militar-subterranea/" rel="bookmark">China abre a los turistas una central nuclear militar subterránea</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/china/" rel="category tag">China</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>China ya tiene a disposición de los turistas una nueva atracción, se trata de la <strong>central nuclear militar &#8220;Planta 816&#8221;</strong>, ubicada en Baitao, Chongqing ( centro del pais ). Esta central tiene la característica de que se construyó bajo tierra, en la <strong>cueva artificial más grande del mundo</strong>. Fue diseñada para aguantar terremotos de hasta ocho grados de magnitud y ataques con toneladas de explosivos.<span id="more-390"></span></p>
+<p><img loading="lazy" class="aligncenter size-full" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/planta-816-china-5.jpg" width="500" height="333" /></p>
+<p>Su construcción data de 1966, y estuvo operativa hasta 1984, año en la que el ejercito chino dejó de utilizarla, ya que el clima hostil que reinaba hasta entonces en plena <strong>Guerra Fria</strong> se habia calmado. No obstante, hasta el año 2002 su existencia se mantuvo en secreto.</p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/planta-816-china-6.jpg" alt="Planta 816, China" width="500" height="333" /></p>
+<p>Además de saciar la curiosidad de los turistas, en esta central/museo pueden verse las tecnologías que se empleaban en la época o el propio reactor nuclear, que tiene un tamaño <a href="https://www.lexico.com/es/definicion/mastodontico" target="_blank" rel="noopener noreferrer">mastodóntico</a>, 80 mts. de altura y una anchura similar a la de un campo de fútbol. La instalación tiene una superficie de 104.000 metros cuadrados repartidos en 18 cuevas, en total 20 km de galerías que en su día constituyeron uno de los secretos mejor guardados por China. En su construcción participaron más de 60.000 soldados.</p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/planta-816-china.jpg" alt="Planta 816, China" width="500" height="392" /></p>
+<p>Por lo visto China esta inmersa en un proceso de apertura al exterior, ya que no es la primera vez que hace guiños de este calibre a los turistas y curiosos que en otras épocas ni se ubieran planteado esto del hermético gobierno &#8220;comunista&#8221;. Las autoridades chinas ya abrieron al turismo una instalación nuclear militar en 2007, concretamente la antigua <strong>base nuclear china de Haibei</strong>, en la provincia de Qinghai (oeste del país), lugar donde China construyó su primera bomba atómica.</p>
+<p>Si es que el panorama del turismo esta cambiando a pasos agigantados en estos últimos años con la creación de nuevas tendencias, como lo es el turismo nuclear. Desde Los Alamos ( Nuevo México, EEUU )<a href="https://www.bbc.com/mundo/resources/idt-67d6f259-8dcb-480e-94c3-b208e8f279a2" target="_blank" rel="noopener noreferrer"> hasta Hiroshima y Nagasaki</a> ( Japón ), pasando por China o Europa, podemos encontrarnos museos e instalaciones diversas al respecto.</p>
+<p>A ver cuando abren al público alguna central española de este tipo, que China me queda muy lejos.</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-52 post type-post status-publish format-standard has-post-thumbnail hentry category-holanda-paises-bajos ast-col-sm-12 ast-article-post" id="post-52" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/curiosa-estatua-de-un-angel-hablando-con-dios-por-el-telefono-movil/" ><img width="1024" height="683" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/k-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="Curiosa estatua de un ángel hablando con dios por el teléfono móvil" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/k-1024x683.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/k-300x200.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/k-768x512.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/k.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/curiosa-estatua-de-un-angel-hablando-con-dios-por-el-telefono-movil/" rel="bookmark">Curiosa estatua de un ángel hablando con dios por el teléfono móvil</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/holanda-paises-bajos/" rel="category tag">Holanda / Paises Bajos</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>La catedral de San Juan de Bolduque &#8211; <em>Sint-Janskathedraal</em> -es conocida por ser uno de los más bellos exponentes de la arquitectura gótica holandesa. Ahora bien, no es su diseño estructural por lo que me ha dado por hablas de ella, sino más bien una de las estatuas que <a href="https://www.inspirame.com.co/decoracion-y-diseno/5-tips-sencillos-decorar-la-fachada-casa/" target="_blank" rel="noopener noreferrer">decoraran su fachada</a>: un ángel hablando por el móvil con dios.<span id="more-1136"></span></p>
+<p><img loading="lazy" class="aligncenter size-full" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/angel-movil-holanda-1.jpg" width="600" height="451" /></p>
+<p>Resulta que en 1998 los responsables del templo decidieron someter al edificio a una profunda restauración, ya que desde que la catedral se constituyó en el siglo XIII pocos habían sido los arreglos que se la habían hecho. Y claro, en ocasiones, cuando se lleva a cabo una obra de este tipo, los arquitectos/escultores suelen plasmar en el trabajo algo que haga referencia a la época en la que viven. En este caso al artista se le ocurrió colocar un ángel “hablando” por un teléfono móvil. Nótese que el aparato solamente tiene un botón, el que le comunica con dios. ¿ Tendrá el ángel una tarifa especial ?</p>
+<p>Fuente y fotografías | magonia</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-58 post type-post status-publish format-standard has-post-thumbnail hentry category-estados-unidos ast-col-sm-12 ast-article-post" id="post-58" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/guia-de-nueva-york/" ><img width="1024" height="685" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l-1024x685.jpg" class="attachment-large size-large wp-post-image" alt="Guía de Nueva York" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l-1024x685.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l-300x201.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l-768x514.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l.jpg 1536w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/guia-de-nueva-york/" rel="bookmark">Guía de Nueva York</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/estados-unidos/" rel="category tag">Estados Unidos</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>Preparad vuestra <a class="external" title="Guía de Nueva York" href="http://www.nuevayork.exprimehoteles.com/" target="_blank" rel="noopener noreferrer">guía de Nueva York</a> que vamos a ataque. Hablar de esta urbe es entrometerse en la vida agitada y compleja de una de las mayores ciudades del mundo, con uno de los grupos étnicos más diversos y gracias en gran medida a la famosa Wall Street uno de los principales núcleos financieros del planeta, por no decir el primero.</p>
+<p>Ahora bien, ¿ <a class="external" href="http://www.guiadenuevayork.com/" target="_blank" rel="noopener noreferrer" name="Que ver en Nueva York">que ver en Nueva York</a>?, pues así a priori os propongo un listado de 18 puntos calientes, pero tened en cuenta que debido a lo complejo de esta ciudad, a cada persona, teniendo en cuenta que todos somos diferentes, le parecerá más o menos acertada.<span id="more-304"></span></p>
+<p>Desde aquél famoso 11 de septiembre de hace ya unos años uno de los punto turísticos más frecuentados de la ciudad es la zona 0, conocida por haber albergado anteriormente en sus terrenos las torres gemelas y haber sido escenario del mayor atentado terrorista de la historia.</p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/empire-state.jpg" alt="Empire State, Nueva York" width="500" height="625" /></p>
+<p>Además de ello tengamos en cuenta que si Nueva York se ha hecho famoso, en gran medida ha sido debido a su &#8220;skyline&#8221;, donde destacan el Empire State y el edificio Chrysler. Paradas obligatorias. Por cierto, si subís al atardecer al Empire State mejor.</p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/times-square-nueva-york.jpg" alt="Times Square, Nueva York" width="500" height="334" /></p>
+<p>Y hablando de visitas nocturnas, no os perdáis el Times Square de noche, es la mítica imagen de Nueva York. Si podéis id en Nochevieja, todo el mundo celebra el cambio de año allá.</p>
+<p>Y como no, también deberíamos darnos una vuelta por estación Gran Central, la principal estación de trenes de Nueva York, por donde diariamente corretean casi medio millón de neoyorquinos. No perder detalle a la impresionante cúpula central.</p>
+<p>Y bueno, ya que estamos con el asunto ferroviario que menos que darnos unas vueltas en el metro de Nueva York, el mejor transporte para moverse por la urbe.</p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/wall-street.jpg" alt="Wall Street, Nueva York" width="500" height="666" /></p>
+<p>Algo que llama la atención es lo que puede ser Wall Street ( la zona financiera de NY ) un día laborable por la mañana, si no salís estresados de cruzaros con tanta gente os invito a un helado.</p>
+<p>¿ Os gusta el baloncesto ? Pues habrá que aprovechar para ir a ver un partido de la NBA en el Madison Square Garden, ¿ no ?. O si lo preferís podéis pasaros por Broadway y disfrutar de una velada teatral en uno de sus múltiples y reconocidos teatros.</p>
+<p>Ahora imaginaros que ha llegado el domingo, pues lo mejor que podéis hacer es pasaros por Harlem a presenciar una misa Gospel. Si, en esas iglesias donde la gente se pone a cantar en el altar. Un plan bastante tranquilo para un domingo puede ser también el darse una vuelta por Central Park, el pulmón de Nueva York.</p>
+<p>Más cosas que os recomiendo son el visitar la eterna estatua de la libertad o cruzar andando el puente de Brooklyn, ambos otros dos claros iconos de la ciudad que nunca duerme.</p>
+<p>Ya os he recomendado antes un par de edificios insignia de Nueva York, no obstante nos os podéis perder la visita al Edificio Flatiron, el primer rascacielos de Nueva York. Otro edificio curioso de la urbe es el edificio Dakota, lugar donde asesinaron a John Lennon y donde actualmente vive su viuda, la estrambótica Yoko Ono.</p>
+<p>¿ Otro edificio interesante ? Pues la sede de Naciones Unidas o la catedral católica de St. Patrik&#8217;s.</p>
+<p>Por último, y como no, un barrio presente en no se cuantas películas de mafiosos, Chinatown, el barrio chino de Nueva York. Y pues mafia, haberla, hayla, pero más bien la mafia de los falsificadores de marcas de lujo. Es aquí donde podéis encontrar zapatillas &#8220;nique&#8221; o bolsos &#8220;Dolce &amp; Gabanno&#8221;.</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-30 post type-post status-publish format-standard has-post-thumbnail hentry category-espana ast-col-sm-12 ast-article-post" id="post-30" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/calle-gibraltar-espanol/" ><img width="1024" height="683" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="Calle Gibraltar Español" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-1024x683.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-300x200.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-768x512.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-1536x1024.jpg 1536w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/calle-gibraltar-espanol/" rel="bookmark">Calle Gibraltar Español</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/espana/" rel="category tag">Espana</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>En una ocasión escribí un artículo referente a los extraños nombres que algunas calles y pueblos de España tienen, pues bien, buscando información sobre el Peñón de Gibraltar me he encontrado con una calle del municipio toledano de Torrijos que lleva el premonitorio nombre de &#8220;<a href="https://www.elespanol.com/lugares/gibraltar/" target="_blank" rel="noopener noreferrer"><strong>GIBRALTAR ESPAÑOL</strong></a>&#8221; ( Primera foto ).</p>
+<p>Lo más curioso de todo es que indagando un poco más en el asunto he llegado a varios municipios peninsulares más que tienen calles con el mismo nombre; casos como los de Almeria y Alcazar de San Juan, en Ciudad Real.<span id="more-144"></span></p>
+<p>Mapa de la calle Gibraltar Español, Torrijos, Toledo</p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/06/calle-gibraltar-espanol-torrijos-toledo.jpg" alt="Mapa de la calle Gibraltar Español, Torrijos, Toledo" width="500" height="326" /></p>
+<p>Calle Gibraltar Español, <a href="https://alcazar-de-san-juan.callejero.net/calle-de-gibraltar-espanol.html" target="_blank" rel="noopener noreferrer">Alcazar de San Juan</a>, Ciudad Real</p>
+<p>Bueno, tocara hacer un articulo sobre Gibraltar, ya viene siendo hora.</p>
+<p>Por cierto&#8230; <strong>¡¡</strong> <strong>GIBRALTAR ESPAÑOL !!</strong></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<div id="http://www.nosoloviajeros.com/calle-gibraltar-espanol/" class="linkwithin_hook">
+<div id="lws_0"></div>
+</div>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-15 post type-post status-publish format-standard has-post-thumbnail hentry category-yemen ast-col-sm-12 ast-article-post" id="post-15" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/islas-de-socotra/" ><img width="1024" height="682" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-1024x682.jpg" class="attachment-large size-large wp-post-image" alt="Mayor información | Página oficial de las Islas Socotra" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-1024x682.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-300x200.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-768x512.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-1536x1023.jpg 1536w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b.jpg 1900w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/islas-de-socotra/" rel="bookmark">Islas de Socotra</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/yemen/" rel="category tag">Yemen</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>Hoy os quiero presentar un lugar excepcional, misterioso, y a la vez con una belleza inusual, se trata de las Islas de Socotra, situadas a 250 kilómetros de la costa de Somalia y a 340 kilómetros al sur de la Península Arábica, en la boca del Golfo de Adén.</p>
+<p>Son un monumento a la biodiversidad, por algo se las llama las Galápagos del Índico (aunque sean mucho menos conocidas que las del archipiélago ecuatoriano).</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-16" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bb.jpg" alt="Islas de Socotra" width="500" height="375" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bb.jpg 500w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bb-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>Allí, los &#8220;pepinos&#8221; se hacen árboles ( Boababs ) y unas extrañas plantas con forma de sombrilla sangran una resina de un color rojo intenso, denominados &#8220;Sangre de Dragón&#8221;. Hace 10 millones de años se desgajó del cuerno de África y, desde entonces, es como si el tiempo no contara, manteniendo un eterno aislamiento con sus vecinos continentales.<span id="more-139"></span></p>
+<p>Cuando Alejandro Magno dio órden de conquistarlas ya eran un fósil viviente. Hoy, este lugar irreal, el de mayor endemismo biológico de Oriente Medio, fascina a zoólogos y botánicos.</p>
+<p><img loading="lazy" class="aligncenter size-full wp-image-17" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbb.jpg" alt="Islas de Socotra" width="500" height="375" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbb.jpg 500w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbb-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> <img loading="lazy" class="aligncenter size-full wp-image-18" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbb.jpg" alt="Islas de Socotra" width="500" height="375" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbb.jpg 500w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbb-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> <img loading="lazy" class="aligncenter size-full wp-image-19" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbb.jpg" alt="Islas de Socotra" width="375" height="500" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbb.jpg 375w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbb-225x300.jpg 225w" sizes="(max-width: 375px) 100vw, 375px" /> <img loading="lazy" class="aligncenter size-full wp-image-20" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbb.jpg" alt="Islas de Socotra" width="375" height="500" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbb.jpg 375w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbb-225x300.jpg 225w" sizes="(max-width: 375px) 100vw, 375px" /> <img loading="lazy" class="aligncenter size-full wp-image-21" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbb.jpg" alt="Islas de Socotra" width="500" height="375" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbb.jpg 500w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbb-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> <img loading="lazy" class="aligncenter size-full wp-image-22" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbb.jpg" alt="Islas de Socotra" width="500" height="327" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbb.jpg 500w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbb-300x196.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> <img loading="lazy" class="aligncenter size-full wp-image-23" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbbb.jpg" alt="Islas de Socotra" width="500" height="375" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbbb.jpg 500w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbbb-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /> <img loading="lazy" class="aligncenter size-full wp-image-24" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbbbb.jpg" alt="Islas de Socotra" width="500" height="375" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbbbb.jpg 500w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/bbbbbbbbbb-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p>En las islas de Socotra también pueden apreciarse otro tipo de entornos naturales, y un buen ejemplo de ello son las dunas de Bedhula.</p>
+<p>No es fácil acceder a estas islas ya que el gobierno yemeni, como es natural, las guarda con gran recelo. Existen una forma viable de llegar a estas islas, cogiendo un avión desde la ciudad yemeni de Sana&#8217;a; digo viable porque la otra opción existente es alquilar un barco local y tirarse tres días en alta mar en unas condiciones de seguridad bastante, digamos, &#8220;abstractas&#8221;. Aunque bien mirado, la opción marítima tiene su encanto y dosis de aventura.</p>
+<p>Mayor información | <a class="external" href="http://www.socotraisland.org/" target="_blank" rel="noopener noreferrer">Página oficial de las Islas Socotra</a></p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+
+<article 
+	class="post-36 post type-post status-publish format-standard has-post-thumbnail hentry category-miscelanea ast-col-sm-12 ast-article-post" id="post-36" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+
+	
+	<div class="ast-post-format- blog-layout-1">
+
+	<div class="post-content ast-col-md-12">
+
+		<div class="ast-blog-featured-section post-thumb ast-col-md-12"><div class="post-thumb-img-content post-thumb"><a href="https://www.nosoloviajeros.com/el-negocio-del-turismo-sexual/" ><img width="1024" height="768" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f-1024x768.jpg" class="attachment-large size-large wp-post-image" alt="El negocio del turismo sexual" loading="lazy" itemprop="image" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f-1024x768.jpg 1024w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f-300x225.jpg 300w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f-768x576.jpg 768w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></div></div>		<header class="entry-header">
+			<h2 class="entry-title" itemprop="headline"><a href="https://www.nosoloviajeros.com/el-negocio-del-turismo-sexual/" rel="bookmark">El negocio del turismo sexual</a></h2>			<div class="entry-meta"><span class="cat-links"><a href="https://www.nosoloviajeros.com/category/miscelanea/" rel="category tag">Miscelanea</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a title="View all posts by mathiasmense" 
+				href="https://www.nosoloviajeros.com/author/mathiasmense/" rel="author"
+				class="url fn n" itemprop="url"				>
+				<span
+				class="author-name" itemprop="name"				>mathiasmense</span>
+			</a>
+		</span>
+
+		</div>		</header><!-- .entry-header -->
+		
+		<div class="entry-content clear"
+			itemprop="text"		>
+
+			
+			<p>A finales del año pasado, en éste blog, se publicó una entrada que trataba del negocio ilegal del <strong>turismo sexual en Cuba</strong>, al que muchos se apuntaban para, digamos, saciar sus instintos más bajos, aprovechándose de las circunstancias políticas y las necesidades económicas de muchas de las mujeres ( y niñas ) que en La Habana ( y en todo el país ) practican éste milenario oficio.</p>
+<p>Bueno, pues hoy volvemos a la carga, en ésta ocasión tratamos del negocio del turismo sexual en el mundo; desde cifras, hasta algunos matices legales que regulan la actividad a nivel mundial.<span id="more-257"></span></p>
+<p><img loading="lazy" class="aligncenter size-full" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/turismo-sexual.jpg" width="500" height="325" /></p>
+<p><strong>El turismo sexual</strong></p>
+<p>El turismo sexual es una forma de turismo con el propósito de sostener relaciones sexuales, normalmente con <a href="https://es.wikipedia.org/wiki/Prostitución" target="_blank" rel="noopener noreferrer">prostitutas</a> pero también puede darse que mujeres busquen oportunidades sexuales con hombres o con mujeres e incluso entre personas del mismo sexo. Entre las causas que motivan el turismo sexual en otro país u otra región se encuentran las siguientes:</p>
+<ul>
+<li>Una mayor tolerancia de las autoridades, y en ocasiones una edad de consentimiento menor.</li>
+<li>Una mayor impunidad ante el delito.</li>
+<li>Precios más bajos (al viajar el cliente de un país rico a uno más pobre).</li>
+<li>Mayor privacidad.</li>
+<li>El cliente encuentra a determinados grupos étnicos más &#8220;atractivos&#8221;.</li>
+<li>El cliente prefiere la &#8220;ética laboral&#8221; de las prostitutas extranjeras a la de las prostitutas de su propio país.</li>
+<li>Al cliente le excita más el sexo en un entorno tropical con un clima caluroso.</li>
+</ul>
+<p>Según la Organización Mundial de Turismo, en la actualidad un 20% de los 700 millones de viajes que se producen al año en el mundo tiene como principal motivación el sexo. De éstos, un 3% se refiere al sexo con niños.</p>
+<p><strong>Un negocio rentable</strong></p>
+<p>La explotación sexual en los viajes turísticos ya supone el tercer negocio ilegal más voluminoso a escala mundial, tras el tráfico de armas y de drogas. Cada año el turismo sexual mueve unos 5.000 millones de dólares (3.760 millones de euros), y 1,8 millones de menores, la mayoría niñas, se ven obligadas a ofrecer servicios sexuales.</p>
+<p><strong>Los destinos del turismo sexual</strong></p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/turismo-sexual-en-tailandia.jpg" alt="Turismo sexual en Tailandia" width="500" height="325" /></p>
+<p>Entre los destinos más comunes para el turismo sexual se encuentran Marruecos, Brasil, Camboya, Costa Rica, China, Cuba y Tailandia. Tras la caída del telón de acero, Rusia, Hungría, República Checa y México también se han convertido en destinos habituales para los <strong>turistas sexuales</strong>. Algunos ejemplos son la ciudad de Sao Paulo y la Zona Norte de Tijuana. En muchos de estos países, el <strong>turismo sexual</strong> supone un pequeño porcentaje del negocio de la prostitución y la mayoría de las prostitutas sirven a los clientes del país.</p>
+<p><strong>Legislación española al respecto</strong></p>
+<p>Actualmente la legislación española permite juzgar a un ciudadano español que haya cometido un delito de turismo sexual infantil en cualquier parte del mundo. Aún así, cada año 30.000 turistas españoles viajan en busca de sexo con niños, sobre todo a <a href="https://www.tec.ac.cr/pensis/articulos/reto-paises-latinoamericanos" target="_blank" rel="noopener noreferrer">países de Iberoamérica</a>.</p>
+<p><strong>Pederastia</strong></p>
+<p>Europa es el continente que exporta al mundo el mayor número de pederastas. España ocupa el quinto lugar entre los países europeos que más practican el turismo sexual infantil, después de Francia, Italia, Alemania y Bélgica. Se trata principalmente de varones que, alejados de las leyes a las que habitualmente están sujetos, aprovechan el anonimato para aprovecharse de menores.</p>
+<p><strong>España también es un destino del turismo sexual</strong></p>
+<p>España también es un destino elegido por los turistas sexuales. Según datos de Unicef, el año pasado 252 menores españoles fueron víctimas de algún tipo de abuso: 69 niñas y un niño fueron prostituidos, 47 fueron víctimas de la pornografía infantil y 135 lo fueron de delitos de corrupción.</p>
+<p><strong>Turismo sexual en Asia</strong></p>
+<p>En el continente asiático casi medio millón de personas se prostituyen dentro del negocio del <strong>turismo sexual</strong>, y una tercera parte de quienes se prostituyen en Tailandia, Camboya, Indonesia, Filipinas, Vietnam, Laos y China tiene entre 12 y 17 años. En Filipinas, por ejemplo, más de 100.000 niñas ejercen la prostitución y la edad de consentimiento para mantener relaciones sexuales es de 12 años.</p>
+<p><strong>Motivos</strong></p>
+<p>La pobreza es una de las principales razones por las que las mujeres y los niños caen en las redes de la prostitución. Según han denunciado varias organizaciones, Bali, en Indonesia, es otro de los lugares más afectados en los últimos años, y se está convirtiendo en un paraíso para las mafias.</p>
+<p><strong>Turismo sexual en Tailandia</strong></p>
+<p>En Tailandia la prostitución es ilegal desde 1960, y aún así es uno de los negocios más comunes en las capitales. Hay toda una <strong>industria del sexo</strong> y cientos de locales dan cobijo a jóvenes que cambian sexo por dinero. Las tarifas van de los 30 a los 65 euros aproximadamente, de los que entre 10 y 15 van para los dueños de los locales y entre 20 y 50 para las prostitutas.</p>
+<p>Pero en Tailandia la prostitución no es un negocio exclusivo para turistas sin escrúpulos, sino que también es un paraíso de la explotación sexual para los <strong>hombres tailandeses</strong>. Ellos son los clientes habituales de los prostíbulos más discretos y baratos del país, en los que pagan 2 euros para pasar un par de horas con una prostituta, y de 8 a 10 por noche.</p>
+<p><strong>Turismo sexual en América Latina</strong></p>
+<p>La Organización Panamericana de Salud ha advertido que, tras el tsunami de 2005, la oferta de turismo sexual infantil se ha desplazado en gran medida a México (con 250.000 menores atrapados en el comercio sexual), Brasil (que cuenta más de 500.000 niñas prostituidas) y República Dominicana (con 250.000 casos).</p>
+<p><strong>Turismo sexual en Argentina</strong></p>
+<p>El negocio de la explotación y la pornografía infantil también ha llegado a Argentina en la última década, y las estadísticas de la policía indican que cada año unos 5.000 menores sufren abusos sexuales por parte de turistas. Las causas son las mismas que en otros países: marginalidad familiar, un alto número de hijos por familia, falta de trabajo y pérdida de poder adquisitivo.</p>
+<p><strong>Turismo sexual en Cuba</strong></p>
+<p><img loading="lazy" class="aligncenter" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/08/turismo-sexual-en-cuba.jpg" alt="Turismo sexual en Cuba" width="500" height="325" /></p>
+<p>En Cuba el fenómeno del turismo sexual arrancó en los 90, cuando comenzaron a fletarse vuelos chárter llenos de hombres de negocios que se hicieron habituales en el aeropuerto cubano. En la actualidad, y según informaciones publicadas por la prensa, los chulos ofrecen a sus mujeres por Internet con tarifas de entre 35 y 80 dólares, y los propios empleados de los hoteles están contratados para ofrecer los servicios de las denominadas jineteras a los turistas.</p>
+<h4><strong>Turismo sexual femenino</strong></h4>
+<p>Pero aunque son mayoría, los hombres no son los únicos que realizan viajes de <strong>turismo sexual</strong>. En la última década ha aumentado considerablemente el número de mujeres que viajan con la intención de buscar un amante, al que agasajan con regalos y mantienen durante su estancia vacacional. Un estudio realizado en la costa africana del Índico señala que una de cada cinco mujeres solteras que viaja allí desde países ricos lo hace en busca de sexo.</p>
+<h4><strong>Turismo sexual en Africa</strong></h4>
+<p>Los niños africanos tampoco se salvan del turismo sexual. En Kenia, por ejemplo, los hombres son los encargados de fomentar la prostitución infantil dentro de sus fronteras, y ellos mismos suponen el 38% de la clientela. El resto son turistas (hombres y mujeres), sobre todo italianos, alemanes, suizos, británicos y saudíes, además de los que vienen de Uganda y Tanzania.</p>
+
+			
+					</div><!-- .entry-content .clear -->
+	</div><!-- .post-content -->
+
+</div> <!-- .blog-layout-1 -->
+
+	
+</article><!-- #post-## -->
+
+
+					
+					</div>
+				
+			</main><!-- #main -->
+			
+		<div class='ast-pagination'>
+	<nav class="navigation pagination" role="navigation" aria-label="Posts">
+		<h2 class="screen-reader-text">Posts navigation</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://www.nosoloviajeros.com/page/2/">2</a>
+<a class="next page-numbers" href="https://www.nosoloviajeros.com/page/2/">Next Page <span class="ast-right-arrow">&rarr;</span></a></div>
+	</nav></div>
+		
+	</div><!-- #primary -->
+
+
+	<div class="widget-area secondary" id="secondary" role="complementary" itemtype="https://schema.org/WPSideBar" itemscope="itemscope">
+	<div class="sidebar-main" >
+
+		
+		
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.nosoloviajeros.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside><aside id="arpw-widget-2" class="widget arpw-widget-random"><h2 class="widget-title">Entradas Populares</h2><div class="arpw-random-post "><ul class="arpw-ul"><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/por-que-decimos-que-las-ciguenas-traen-a-los-ninos-de-paris/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="¿ Por qué decimos que las cigüeñas traen a los niños de París ?" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/i-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/por-que-decimos-que-las-ciguenas-traen-a-los-ninos-de-paris/" rel="bookmark">¿ Por qué decimos que las cigüeñas traen a los niños de París ?</a><time class="arpw-time published" datetime="2019-04-14T16:28:48+00:00">April 14, 2019</time><div class="arpw-summary">Cuando un niño todavía no tiene edad para comprender el “milagro” de la reproducción humana, quizá lo más sencillo sea recurrir al eterno mito de que los niños los traen las cigüeñas desde París. Pero, &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/la-casa-de-los-simpson-existe-en-la-realidad/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/a-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="La casa de los Simpson “existe” en la realidad" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/a-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/a-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/la-casa-de-los-simpson-existe-en-la-realidad/" rel="bookmark">La casa de los Simpson “existe” en la realidad</a><time class="arpw-time published" datetime="2017-05-07T11:59:50+00:00">May 7, 2017</time><div class="arpw-summary">Menuda sorpresa la que me he llevado al ver que la casa de los Simpson existe en la realidad. Por lo visto, tras un concurso organizado por Pepsi y Fox en 1997, la que hoy día es la &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/calle-gibraltar-espanol/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="Calle Gibraltar Español" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/d-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/calle-gibraltar-espanol/" rel="bookmark">Calle Gibraltar Español</a><time class="arpw-time published" datetime="2017-12-05T12:25:12+00:00">December 5, 2017</time><div class="arpw-summary">En una ocasión escribí un artículo referente a los extraños nombres que algunas calles y pueblos de España tienen, pues bien, buscando información sobre el Peñón de Gibraltar me he encontrado con una calle del municipio toledano &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/micronesia-espanola-tiene-espana-islas-en-el-pacifico-y-no-lo-sabe/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="Micronesia Española, tiene España islas en el Pacífico y no lo sabe ?" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/h-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/micronesia-espanola-tiene-espana-islas-en-el-pacifico-y-no-lo-sabe/" rel="bookmark">Micronesia Española, tiene España islas en el Pacífico y no lo sabe ?</a><time class="arpw-time published" datetime="2020-06-16T05:43:13+00:00">June 16, 2020</time><div class="arpw-summary">La Historia es curiosa, y a veces haciendo una revisión de la misma nos podemos encontrar con sorpresas. Este es uno de esos casos, ya que atendiendo a los acuerdos internacionales firmados por España a finales de &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/bogota-2600-metros-mas-cerca-de-las-estrellas/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="Bogotá, 2600 metros más cerca de las estrellas" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/c-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/bogota-2600-metros-mas-cerca-de-las-estrellas/" rel="bookmark">Bogotá, 2600 metros más cerca de las estrellas</a><time class="arpw-time published" datetime="2019-07-28T15:38:57+00:00">July 28, 2019</time><div class="arpw-summary">Sin contar con un clima tropical o largas y transparentes playas Bogotá se ha convertido en uno de los principales destinos turísticos de latinoamérica gracias a su carácter multicultural y su apuesta por adaptarse a &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/islas-de-socotra/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="Islas de Socotra" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/b-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/islas-de-socotra/" rel="bookmark">Islas de Socotra</a><time class="arpw-time published" datetime="2017-09-27T18:43:47+00:00">September 27, 2017</time><div class="arpw-summary">Hoy os quiero presentar un lugar excepcional, misterioso, y a la vez con una belleza inusual, se trata de las Islas de Socotra, situadas a 250 kilómetros de la costa de Somalia y a 340 kilómetros al sur &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/detroit-la-ciudad-fantasma-de-estados-unidos/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/e-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="Detroit, la ciudad fantasma de Estados Unidos." loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/e-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/e-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/detroit-la-ciudad-fantasma-de-estados-unidos/" rel="bookmark">Detroit, la ciudad fantasma de Estados Unidos.</a><time class="arpw-time published" datetime="2017-06-10T02:16:58+00:00">June 10, 2017</time><div class="arpw-summary">Si por algo se ha conocido la ciudad de Detroit ha sido por ser la capital del automovilismo y el símbolo del poderio industrial de Estados Unidos; y no es para menos, ya que desde sus &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/los-del-fines-rosados-del-amazonas/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="Los delfines rosados del Amazonas" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/g-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/los-del-fines-rosados-del-amazonas/" rel="bookmark">Los delfines rosados del Amazonas</a><time class="arpw-time published" datetime="2019-11-06T13:05:14+00:00">November 6, 2019</time><div class="arpw-summary">En el Amazonas colombiano, próximo a la frontera con las repúblicas de Perú y Brasil, nos encontramos uno de los espectáculos más bellos que la naturaleza puede ofrecernos, los delfines rosados. Estos mamíferos, de piel rosada y joroba pronunciada, son &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/guia-de-nueva-york/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="Guía de Nueva York" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/l-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/guia-de-nueva-york/" rel="bookmark">Guía de Nueva York</a><time class="arpw-time published" datetime="2018-03-10T04:33:03+00:00">March 10, 2018</time><div class="arpw-summary">Preparad vuestra guía de Nueva York que vamos a ataque. Hablar de esta urbe es entrometerse en la vida agitada y compleja de una de las mayores ciudades del mundo, con uno de los grupos étnicos más &hellip;</div></li><li class="arpw-li arpw-clearfix"><a href="https://www.nosoloviajeros.com/el-negocio-del-turismo-sexual/"  rel="bookmark"><img width="50" height="50" src="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f-50x50.jpg" class="arpw-thumbnail alignleft wp-post-image" alt="El negocio del turismo sexual" loading="lazy" srcset="https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f-50x50.jpg 50w, https://www.nosoloviajeros.com/wp-content/uploads/2020/09/f-150x150.jpg 150w" sizes="(max-width: 50px) 100vw, 50px" /></a><a class="arpw-title" href="https://www.nosoloviajeros.com/el-negocio-del-turismo-sexual/" rel="bookmark">El negocio del turismo sexual</a><time class="arpw-time published" datetime="2017-06-21T08:06:57+00:00">June 21, 2017</time><div class="arpw-summary">A finales del año pasado, en éste blog, se publicó una entrada que trataba del negocio ilegal del turismo sexual en Cuba, al que muchos se apuntaban para, digamos, saciar sus instintos más bajos, aprovechándose de &hellip;</div></li></ul></div><!-- Generated by https://wordpress.org/plugins/advanced-random-posts-widget/ --></aside>
+		
+		
+	</div><!-- .sidebar-main -->
+</div><!-- #secondary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+		
+		<footer
+			class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon"		>
+
+			
+			
+<div class="ast-small-footer footer-sml-layout-1">
+	<div class="ast-footer-overlay">
+		<div class="ast-container">
+			<div class="ast-small-footer-wrap" >
+									<div class="ast-small-footer-section ast-small-footer-section-1" >
+						Copyright &copy; 2020 <span class="ast-footer-site-title">No Solo Viajeros</span> | Powered by <a href="https://wpastra.com/">Astra WordPress Theme</a>					</div>
+				
+				
+			</div><!-- .ast-row .ast-small-footer-wrap -->
+		</div><!-- .ast-container -->
+	</div><!-- .ast-footer-overlay -->
+</div><!-- .ast-small-footer-->
+
+			
+		</footer><!-- #colophon -->
+		
+		
+	</div><!-- #page -->
+
+	
+	<script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='https://www.nosoloviajeros.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=2.5.5' id='astra-theme-js-js'></script>
+<script id='social_warfare_script-js-extra'>
+var socialWarfare = {"addons":[],"post_id":"42","variables":{"emphasizeIcons":false,"powered_by_toggle":false,"affiliate_link":"https:\/\/warfareplugins.com"},"floatBeforeContent":""};
+</script>
+<script src='https://www.nosoloviajeros.com/wp-content/plugins/social-warfare/assets/js/script.min.js?ver=4.1.0' id='social_warfare_script-js'></script>
+<script src='https://www.nosoloviajeros.com/wp-includes/js/wp-embed.min.js?ver=5.5.1' id='wp-embed-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			<script type="text/javascript"> var swp_nonce = "3d20a10903";function parentIsEvil() { var html = null; try { var doc = top.location.pathname; } catch(err){ }; if(typeof doc === "undefined") { return true } else { return false }; }; if (parentIsEvil()) { top.location = self.location.href; };var url = "https://www.nosoloviajeros.com/micronesia-espanola-tiene-espana-islas-en-el-pacifico-y-no-lo-sabe/";if(url.indexOf("stfi.re") != -1) { var canonical = ""; var links = document.getElementsByTagName("link"); for (var i = 0; i < links.length; i ++) { if (links[i].getAttribute("rel") === "canonical") { canonical = links[i].getAttribute("href")}}; canonical = canonical.replace("?sfr=1", "");top.location = canonical; console.log(canonical);};var swpFloatBeforeContent = false; var swp_ajax_url = "https://www.nosoloviajeros.com/wp-admin/admin-ajax.php";var swpClickTracking = false;</script>
+	</body>
+</html>
